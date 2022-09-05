@@ -1,0 +1,33 @@
+.test{
+  color: blue;
+  background: rgb(230, 248, 247);
+  font-family: Cambria;
+  font-size: 14pt;
+  margin: 5px 5px 10px 20px;
+  padding: 3px;
+}
+.task1{
+  color: rgb(6, 160, 26);
+  background: rgb(254, 255, 221);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14pt;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+}
+
+.task1 a{
+  color: green;
+}
+
+.task1 a:visited{
+  color:  rgb(255, 182, 25); 
+}
+
+.task2{
+  color: rgb(126, 9, 172);
+  background: rgb(255, 245, 253);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12pt;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+}
